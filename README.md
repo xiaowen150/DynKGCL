@@ -145,11 +145,12 @@ and run `preprocess.py` to generate the required input files for DynKGCL.
 If you use this codebase in your research, please cite:
 
 ```bibtex
-@inproceedings{DynKGCL2025,
-  title     = {DynKGCL: Contrastive Learning for Recommendation with Dynamic Dual-Channel Positive Expansion and Adaptive Negative Sampling},
-  author    = {Ling Wen and Qihuiyang Liang and Shichao Li and Yuanyuan Zhang},
-  booktitle = {Proceedings of the XXX Conference on Recommender Systems},
-  year      = {2025}
+@article{DynKGCL2025,
+  title   = {DynKGCL: Contrastive Learning for Recommendation with Dynamic Dual-Channel Positive Expansion and Adaptive Negative Sampling},
+  author  = {Ling Wen and Qihuiyang Liang and Shichao Li and Yuanyuan Zhang},
+  journal = {Applied Intelligence},
+  year    = {2025},
+  note    = {To appear}
 }
 ```
 
