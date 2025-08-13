@@ -4,7 +4,7 @@
 
 > **DynKGCL: Contrastive Learning for Recommendation with Dynamic Dual-Channel Positive Expansion and Adaptive Negative Sampling**  
 > Ling Wen, Qihuiyang Liang, Shichao Li, Yuanyuan Zhang  
-> 📌 *To appear in* **Applied Intelligence**, 2025. *(Preprint link will be added once available.)*
+> 📌 *To appear in* **Applied Intelligence**, 2025. *[DOI: 10.1007/s10489-025-06766-x](https://doi.org/10.1007/s10489-025-06766-x)*
 
 ---
 
@@ -150,7 +150,7 @@ If you use this codebase in your research, please cite:
   author  = {Ling Wen and Qihuiyang Liang and Shichao Li and Yuanyuan Zhang},
   journal = {Applied Intelligence},
   year    = {2025},
-  note    = {To appear}
+  doi     = {10.1007/s10489-025-06766-x}
 }
 ```
 
